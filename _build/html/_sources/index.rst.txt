@@ -3,18 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to demo-sphinx's documentation!
-=======================================
+CodeIgniter User Guide
+=========================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: Welcome
+
+   welcome.rst
 
 
+CodeIgniter Overview
+=========================
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :caption: code igniter overview
+
+   code igniter overview.rst
